@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\1732061\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Sudoku.-664180494.00" t="ExcludeRecursive" />
+    <e p="C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sudoku.sln" t="IncludeFlat" />
+      <e p="SudokuGui" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="grilles" t="Include">
+          <e p="1.json" t="Include" />
+          <e p="2.json" t="Include" />
+          <e p="3.json" t="Include" />
+          <e p="4.json" t="Include" />
+          <e p="5.json" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="parties" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SudokuGui.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SudokuMetier" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Case.cs" t="Include" />
+        <e p="Grille.cs" t="Include" />
+        <e p="JeuSudoku.cs" t="Include" />
+        <e p="JeuSudokuException.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SudokuMetier.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

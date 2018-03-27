@@ -1,0 +1,26 @@
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.dll
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.pdb
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.dll
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.dll
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.pdb
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.dll
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.dll
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csproj.CoreCompileInputs.cache
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.dll
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\SudokuMetier.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csprojResolveAssemblyReference.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.csproj.CoreCompileInputs.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\obj\Debug\SudokuMetier.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\SudokuPersistance.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\SudokuPersistance.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuMetier\bin\Debug\Newtonsoft.Json.xml

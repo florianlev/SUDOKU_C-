@@ -1,0 +1,109 @@
+﻿<Window x:Class="Sudoku.Gui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Jeu Sudoku" Height="692" Width="750">
+    <Viewbox>
+        <Grid Background="Beige" Height="687" >
+            <UniformGrid Name="grilleSudoku" Columns="9" Rows="9" Margin="135,66,135,120"  Width="500" Height="500">
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,3"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,3"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,3"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,3"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,1,3"/>
+
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1,3,1,1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1,1,3,1"/>
+                <Border BorderBrush="Black" BorderThickness="3,1,1,1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+                <Border BorderBrush="Black" BorderThickness="1"/>
+            </UniformGrid>
+
+            <TextBlock Name="txtIndicationEtat" HorizontalAlignment="Left" Margin="201,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="363" FontWeight="Bold" TextDecorations="Underline" TextAlignment="Center"/>
+            <Button Name="valider" Content="Valider" HorizontalAlignment="Left" Margin="228,585,0,0" VerticalAlignment="Top" Width="75" Click="valider_Click"/>
+            <Button Name="resoudre" Content="Résoudre" HorizontalAlignment="Left" Margin="433,585,0,0" VerticalAlignment="Top" Width="75" Click="resoudre_Click"/>
+            <Button Name="nouvellePartie" Content="Nouvelle partie" HorizontalAlignment="Left" Margin="410,643,0,0" VerticalAlignment="Top" Width="98" Click="nouvellePartie_Click"/>
+            <Button Name="quitter" Content="Quitter" HorizontalAlignment="Left" Margin="560,643,0,0" VerticalAlignment="Top" Width="75" Click="quitter_Click"/>
+            <TextBlock Name="msgEtatPartie" HorizontalAlignment="Left" Margin="303,24,0,0" TextWrapping="Wrap" Text="Aucune partie cours..." VerticalAlignment="Top" RenderTransformOrigin="0.77,0.382" Width="165" Height="18" TextAlignment="Center"/>
+            <Button x:Name="reprendre" Content="Reprendre" HorizontalAlignment="Left" Margin="279,643,0,0" VerticalAlignment="Top" Width="73" Click="reprendre_Click"/>
+            <Button x:Name="sauver" Content="Sauver" HorizontalAlignment="Left" Margin="157,643,0,0" VerticalAlignment="Top" Width="69" Click="sauver_Click"/>
+        </Grid>
+    </Viewbox>
+</Window>

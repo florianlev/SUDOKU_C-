@@ -1,0 +1,68 @@
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe.config
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\bin\Debug\SudokuGui.pdb
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\bin\Debug\SudokuMetier.dll
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\bin\Debug\SudokuMetier.pdb
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\MainWindow.baml
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\MainWindow.g.cs
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\App.g.cs
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui_MarkupCompile.cache
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui.g.resources
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\Sudoku.Gui.Properties.Resources.resources
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.GenerateResource.Cache
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui.exe
+E:\GoogleDrive\Enseignement\420-354-MT Programmation objet\Évaluation\TP1\A2016\partie 2\solution\Sudoku\SudokuGui\obj\Debug\SudokuGui.pdb
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe.config
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.pdb
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\bin\Debug\SudokuMetier.dll
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\bin\Debug\SudokuMetier.pdb
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.csprojResolveAssemblyReference.cache
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\MainWindow.baml
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\MainWindow.g.cs
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\App.g.cs
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui_MarkupCompile.cache
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.g.resources
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\Sudoku.Gui.Properties.Resources.resources
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.GenerateResource.Cache
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.exe
+C:\Users\bourgoink\Desktop\objet\420-354-MT Programmation objet\Évaluation\TP2\A2016\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe.config
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.exe
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\bin\Debug\SudokuGui.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\bin\Debug\SudokuMetier.dll
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\bin\Debug\SudokuMetier.pdb
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.csprojResolveAssemblyReference.cache
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\MainWindow.baml
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\MainWindow.g.cs
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\App.g.cs
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui_MarkupCompile.cache
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.g.resources
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\Sudoku.Gui.Properties.Resources.resources
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.GenerateResource.Cache
+C:\Users\1732061\Desktop\Progra objet\TP2\depart\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.CoreCompileInputs.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe.config
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuGui.exe
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuGui.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuMetier.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuMetier.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.csprojResolveAssemblyReference.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\MainWindow.baml
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\MainWindow.g.cs
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\App.g.cs
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui_MarkupCompile.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.g.resources
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\Sudoku.Gui.Properties.Resources.resources
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.GenerateResource.Cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.csproj.CoreCompileInputs.cache
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.exe
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\SudokuGui.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\DialogueReprendrePartie.baml
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\obj\Debug\DialogueReprendrePartie.g.cs
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuPersistance.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\SudokuPersistance.pdb
+C:\Users\1732061\Documents\Programmation objet\sudokuNEW\Sudoku\SudokuGui\bin\Debug\Newtonsoft.Json.xml
